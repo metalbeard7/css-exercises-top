@@ -1,0 +1,9 @@
+.black {
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
+}
+
+.yellow {
+    background-color: hsl(60, 100%, 50%);
+    color: hsl(0, 0%, 0%);
+}
