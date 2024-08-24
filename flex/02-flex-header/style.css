@@ -1,6 +1,12 @@
+* {
+  /* outline: 5px dotted red; */
+}
+
 .header  {
   font-family: monospace;
   background: papayawhip;
+
+  display: flex;
 }
 
 .logo {
