@@ -28,6 +28,7 @@ a {
   display: flex;
   justify-content: space-around;
   padding: 8px;
+  align-items: center;
 
 }
 
