@@ -34,10 +34,11 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
+margin: 10px;  
 }
 
 .left-links, .right-links {
   align-content: center;
-  justify-content: space-around;
+
 
 }
