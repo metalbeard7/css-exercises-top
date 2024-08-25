@@ -52,3 +52,7 @@ ul {
   display: flex;
   gap: 12px;
 }
+
+.left-header, .right-header {
+  display: flex;
+}
