@@ -57,6 +57,6 @@ ul {
 
 .left-header, .right-header {
   display: flex;
-
   align-items: center;
+  gap: 16px;
 }
