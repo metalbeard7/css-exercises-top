@@ -75,13 +75,13 @@ button.cancel {
 
 .header-close {
   display: flex;
-  margin: 12px 12px 12px 0; 
+  margin: 0 0 12px 0; 
   justify-content: space-between;
 }
 
 .icon {
   flex-shrink: 0;
-  margin: 15px;
+  margin-right: 15px;
 }
 
 .header {
