@@ -74,6 +74,8 @@ button.cancel {
 
 .header-close {
   display: flex;
+  margin: 12px 12px 12px 0; 
+  justify-content: space-between;
 }
 
 .icon {
