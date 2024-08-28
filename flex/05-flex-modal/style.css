@@ -76,3 +76,7 @@ button.cancel {
   display: flex;
 }
 
+.icon {
+  flex-shrink: 0;
+  margin: 15px;
+}
