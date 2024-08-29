@@ -33,8 +33,16 @@ input {
   justify-content: space-between;
 }
 
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+}
 
 ul {
   padding-left: 0;
   display: flex;
+
 }
