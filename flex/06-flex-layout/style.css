@@ -34,3 +34,9 @@ input {
   display: flex;
   justify-content: space-between;
 }
+
+
+ul {
+  padding-left: 0;
+  display: flex;
+}
