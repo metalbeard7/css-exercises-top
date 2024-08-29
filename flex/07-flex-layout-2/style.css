@@ -52,3 +52,11 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
