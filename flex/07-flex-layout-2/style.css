@@ -28,6 +28,8 @@ body {
   border-radius: 4px;
 }
 
+/* added below */
+
 body {
   display: flex;
   flex-direction: column;
@@ -59,4 +61,12 @@ a {
 
 ul {
   list-style-type: none;
+}
+
+.header {
+  font-size: 32px;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  padding-left: 16px;
 }
