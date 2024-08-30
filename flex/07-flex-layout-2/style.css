@@ -70,3 +70,7 @@ ul {
   align-items: center;
   padding-left: 16px;
 }
+
+.sidebar {
+  flex-shrink: 0;
+}
