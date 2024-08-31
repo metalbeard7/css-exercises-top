@@ -80,3 +80,8 @@ ul {
   flex-shrink: 0;
   padding: 16px;
 }
+
+.deck {
+  padding: 48px;
+  gap: 24px;
+}
